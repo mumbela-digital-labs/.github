@@ -12,7 +12,7 @@
 # 🌍 Mumbela Digital Labs
 
 Welcome to **Mumbela Digital Labs** — an innovation-driven software organization focused on building **scalable, maintainable, and human-centered digital solutions**.  
-We specialize in **Rails ViewComponent architecture**, **style abstraction**, and **learning platform components** that empower developers and learners alike.
+We specialize in **robust component architectures, reusable design patterns, and developer-friendly tools** that empower teams to build with clarity, consistency, and confidence.
 
 ---
 
