@@ -65,7 +65,7 @@ To contribute:
 
 ## 📬 Contact
 - Organization: [Mumbela Digital Labs](https://github.com/mumbela-digital-labs)
-- Maintainer: Mumbela  
+- Maintainer: [Mumbela](https://github.com/Mumbela)  
 - Location: Copperbelt Province, Zambia
 
 ---
